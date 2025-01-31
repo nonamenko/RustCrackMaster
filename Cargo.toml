@@ -1,0 +1,9 @@
+[package]
+name = "RustCrackMaster"
+version = "1.0.0"
+authors = ["Your Name <youremail@example.com>"]
+edition = "2021"
+description = "Educational CrackMe project in Rust for reverse engineering practice."
+license = "MIT"
+
+[dependencies]
